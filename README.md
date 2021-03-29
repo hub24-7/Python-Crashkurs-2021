@@ -41,3 +41,7 @@ Linux-Systeme   Übersicht, Einsatz, Installation
 
 
 
+Links zu weiteren Tutorials: 
+
+https://github.com/rajathkmp/Python-Lectures
+
