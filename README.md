@@ -10,6 +10,11 @@ Auf dieser Seite werden erste Informationen angeboten - sowie auch Links zum Kur
 Diese Seite ist noch sehr roh - wird aber in den kommenden Tagen nach und nach editiert. 
 
 
+
+Vor allen Dingen wir hier Konrad Crash-Kurs reinkommen. 
+
+
+
 Aufbau des Python Crashkurses - modular und strukturiert _nachhaltig - mit anderen Worten: das wird bleibend sein.
 Wir akkumulieren hier wissen - und bauen ein hochleistungsfähigen Kurs auf -
 hier können wir auch Dinge noch einbauen - etwa was andernorts noch gefunden wird..
@@ -34,6 +39,12 @@ RaspBerry_Pi und Arduino
 
 Betriebsysteme:
 Linux-Systeme   Übersicht, Einsatz, Installation
+
+
+
+
+
+
 
 
 
