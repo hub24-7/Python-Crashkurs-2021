@@ -3,9 +3,8 @@
 all kinds of python-learning-stuff  Here we collect all kinds of code and tutorials that we can find .. here we go;)
 
 
+
 für das die kommenden FSJ-Seminare - also v.a. für die Seminartage am 15. und 16. April haben wir vor, einen Python-Crash-Course anzubieten: 
-
-
 Auf dieser Seite werden erste Informationen angeboten - sowie auch Links zum Kurs, zu IDEs und weiteren Werkzeugen. 
 
 Diese Seite ist noch sehr roh - wird aber in den kommenden Tagen nach und nach editiert. 
