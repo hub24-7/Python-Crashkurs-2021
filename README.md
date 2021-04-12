@@ -10,17 +10,11 @@ Auf dieser Seite werden erste Informationen angeboten - sowie auch Links zum Kur
 Diese Seite ist noch sehr roh - wird aber in den kommenden Tagen nach und nach editiert. 
 
 
-
-Vor allen Dingen wir hier Konrad Crash-Kurs reinkommen. 
-
+Vor allen Dingen werden wir hier mit einem Crashkurs von Konrad (FSJ-Digital) hier starten - in dieser Woche - von 15 bis 16. April
 
 
-Aufbau des Python Crashkurses - modular und strukturiert _nachhaltig - mit anderen Worten: das wird bleibend sein.
-Wir akkumulieren hier wissen - und bauen ein hochleistungsfähigen Kurs auf -
-hier können wir auch Dinge noch einbauen - etwa was andernorts noch gefunden wird..
-
-https://github.com/rajathkmp/Python-Lectures : eine sehr strukturierte Übersicht -(wie sie in vielen Lehrbüchern auch zu finden ist)
-ist nebenbei released unter: https://creativecommons.org/licenses/by/3.0/
+Nebenbei bemerkt: der Aufbau des Python Crashkurses - wird modular und strukturiert _nachhaltig - mit anderen Worten: das wird bleibend sein.
+Wir akkumulieren hier wissen - und bauen ein hochleistungsfähigen Kurs auf -hier können wir auch Dinge noch einbauen - etwa was andernorts noch gefunden wird..
 
 wir haben eine Github-Account:
 
@@ -50,8 +44,8 @@ Linux-Systeme   Übersicht, Einsatz, Installation
 
 Links zu weiteren Tutorials: 
 
-https://github.com/rajathkmp/Python-Lectures
-
+https://github.com/rajathkmp/Python-Lectures : eine sehr strukturierte Übersicht -(wie sie in vielen Lehrbüchern auch zu finden ist)
+ist nebenbei released unter: https://creativecommons.org/licenses/by/3.0/
 
 
 
@@ -75,9 +69,9 @@ Installing all the necessary libraries might prove troublesome. Anaconda and Can
 
 #### Anaconda
 
-Download Anaconda from https://www.continuum.io/downloads
+Download Anaconda from https://www.anaconda.com/products/individual
 
-Anaconda is completely free and includes more than 300 python packages. Both python 2.7 and 3.4 options are available.
+Anaconda is completely free and includes more than 500 python packages. Both python 2.7 and 3.7 options are available.
 
 #### Canopy
 
