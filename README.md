@@ -41,7 +41,6 @@ Linux-Systeme   Übersicht, Einsatz, Installation
 
 
 
-
 Links zu weiteren Tutorials: 
 
 https://github.com/rajathkmp/Python-Lectures : eine sehr strukturierte Übersicht -(wie sie in vielen Lehrbüchern auch zu finden ist)
@@ -92,7 +91,6 @@ In Canopy and Anaconda, Open the respective terminals and execute the above.
 You can download the pdf copy from here : [Get Started with Python](https://github.com/rajathkumarmp/Python-Lectures/blob/master/Python.pdf)
 
 It is better to download all the ipython notebooks from this repository https://github.com/rajathkumarmp/Python-Lectures and learn it on the notebook itself rather than having to refer to a pdf.
-
 Launch ipython notebook from the folder which contains the notebooks. Open each one of them
 
     Cell > All Output > Clear
