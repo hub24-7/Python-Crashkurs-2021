@@ -13,12 +13,13 @@ Vor allen Dingen werden wir hier mit einem Crashkurs von Konrad (FSJ-Digital) hi
 Nebenbei bemerkt: der Aufbau des Python Crashkurses - wird modular und strukturiert _nachhaltig - mit anderen Worten: das wird bleibend sein.
 Wir akkumulieren hier wissen - und bauen ein hochleistungsfähigen Kurs auf -hier können wir auch Dinge noch einbauen - etwa was andernorts noch gefunden wird..
 
-wir haben eine Github-Account:
 
-weitere Angebote:
-Jupyter-Notebook
-Jupyter-Lab
-Wir führen auch ein in Jupyter-Notebook /(lab)
+
+## SEMININHALT für den 15. und 16. April 
+
+a. Jupyter-Notebook: Wir führen auch ein in Jupyter-Notebook /(lab)
+b. Python Crashkurs.
+
 
 
 jupyter-notebook :: hier ein Link zur Kurzeinführung in das Notebook: [ jupyter-notebook ](https://youtu.be/tpLk-FC9kHI)
