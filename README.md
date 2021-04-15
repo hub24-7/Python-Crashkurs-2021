@@ -21,13 +21,14 @@ Jupyter-Lab
 Wir führen auch ein in Jupyter-Notebook /(lab)
 
 
-jupyter-notebook :: hier ein Link zur Kurzeinführung in das Notebook: https://youtu.be/tpLk-FC9kHI
+jupyter-notebook :: hier ein Link zur Kurzeinführung in das Notebook: [ jupyter-notebook ](https://youtu.be/tpLk-FC9kHI)
+
 
 hier sind die beiden Jupyter-Noteboks, um die es heute geht,  Crashkurs und Übungen: 
- 
-a.  https://nbviewer.jupyter.org/github/fsj-digital/Python_Tutorials/blob/main/Python_Crashkurs.ipynb 
-b.  https://nbviewer.jupyter.org/github/fsj-digital/Python_Tutorials/blob/main/%C3%9Cbungen.ipynb
 
+
+[Python-Crahskurs](https://nbviewer.jupyter.org/github/fsj-digital/Python_Tutorials/blob/main/Python_Crashkurs.ipynb)
+[Python Übungen](https://nbviewer.jupyter.org/github/fsj-digital/Python_Tutorials/blob/main/%C3%9Cbungen.ipynb)
 
 
 
