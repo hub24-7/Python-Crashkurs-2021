@@ -1,10 +1,7 @@
 # Python_Tutorials
 
-all kinds of python-learning-stuff  Here we collect all kinds of code and tutorials that we can find .. here we go;)
 
-
-
-für das die kommenden FSJ-Seminare - also v.a. für die Seminartage am 15. und 16. April haben wir vor, einen Python-Crash-Course anzubieten: 
+...für das die kommenden FSJ-Seminare - also v.a. für die Seminartage am 15. und 16. April haben wir vor, einen Python-Crash-Course anzubieten: 
 Auf dieser Seite werden erste Informationen angeboten - sowie auch Links zum Kurs, zu IDEs und weiteren Werkzeugen. 
 
 Diese Seite ist noch sehr roh - wird aber in den kommenden Tagen nach und nach editiert. 
@@ -22,6 +19,18 @@ weitere Angebote:
 Jupyter-Notebook
 Jupyter-Lab
 Wir führen auch ein in Jupyter-Notebook /(lab)
+
+
+jupyter-notebook :: hier ein Link zur Kurzeinführung in das Notebook: https://youtu.be/tpLk-FC9kHI
+
+hier sind die beiden Jupyter-Noteboks, um die es heute geht,  Crashkurs und Übungen: 
+ 
+a.  https://nbviewer.jupyter.org/github/fsj-digital/Python_Tutorials/blob/main/Python_Crashkurs.ipynb 
+b.  https://nbviewer.jupyter.org/github/fsj-digital/Python_Tutorials/blob/main/%C3%9Cbungen.ipynb
+
+
+
+
 
 
 IDEs - diverse ides und Editoren
