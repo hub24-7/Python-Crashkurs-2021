@@ -26,9 +26,13 @@ jupyter-notebook :: hier ein Link zur Kurzeinführung in das Notebook: [ jupyter
 
 hier sind die beiden Jupyter-Noteboks, um die es heute geht,  Crashkurs und Übungen: 
 
-
 [Python-Crahskurs](https://nbviewer.jupyter.org/github/fsj-digital/Python_Tutorials/blob/main/Python_Crashkurs.ipynb)
+
+
 [Python Übungen](https://nbviewer.jupyter.org/github/fsj-digital/Python_Tutorials/blob/main/%C3%9Cbungen.ipynb)
+
+
+
 
 
 
@@ -43,9 +47,6 @@ RaspBerry_Pi und Arduino
 
 Betriebsysteme:
 Linux-Systeme   Übersicht, Einsatz, Installation
-
-
-
 
 
 
