@@ -53,7 +53,7 @@ Linux-Systeme   Übersicht, Einsatz, Installation
 
 
 
-Links zu weiteren Tutorials: 
+##Links zu weiteren Tutorials: ( nicht Gegenstand des heutigen Seminars ) 
 
 https://github.com/rajathkmp/Python-Lectures : eine sehr strukturierte Übersicht -(wie sie in vielen Lehrbüchern auch zu finden ist)
 ist nebenbei released unter: https://creativecommons.org/licenses/by/3.0/
