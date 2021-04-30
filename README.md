@@ -7,19 +7,18 @@ our page at the IB-Volunteering-site: FSJ-Digital in Heidelberg (german language
            Python as a first Proramming language
            encouraging to go the first steps - learn with Projects
 <br><br>
-🌱 Currently Learning: how to structure an github-ressurce for Python-Learners
-🤔 Looking for help: I’m looking for help with trying to find the best way to organize this page for Python newbies.
-💬 Ask me about: how to mentor students, creating a portfolio site for you, or assistance with an application you are working on.
-📫 How to reach me:
-           Email
-           Twitter
-           LinkedIn
+🌱 Currently Learning: how to structure an github-ressurce for Python-Learners<br>
+🤔 Looking for help: I’m looking for help with trying to find the best way to organize this page for Python newbies.<br>
+💬 Ask me about: how to mentor students, creating a portfolio site for you, or assistance with an application you are working on.<br>
+📫 How to reach me:<br>
+           Email<br>
+           Twitter<br>
+           LinkedIn<br>
 😄 Pronouns: we/us/ors<br>
 ⚡ Fun facts:<br>
-           :musical_note: we love making music You can hear us making music here: University-Church in Heidelberg
-           :fallen_leaf: My favorite season is fall :smile:
+           :musical_note: we love making music You can hear us making music here: University-Church in Heidelberg<br>
+           :fallen_leaf: My favorite season is fall :smile:<br>
 <br><br><br><br>
-
 <br>
 
 # Python_Tutorials
