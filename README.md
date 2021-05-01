@@ -1,5 +1,8 @@
 Hi there 👋,
 <br><br>
+
+dear friends and visitors. 
+<br><br>
  We re the team of FSJ-Digital <br><br>- a volunteering group: and we re PUTTING SKILLS INTO ACTION So many ways to volunteer
 our page at the IB-Volunteering-site: FSJ-Digital in Heidelberg (german language)
 <br><br><br>
