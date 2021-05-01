@@ -1,6 +1,6 @@
 Hi there 👋,
 <br><br>
- We re the team of FSJ-Digital - a volunteering group: and we re PUTTING SKILLS INTO ACTION So many ways to volunteer
+ We re the team of FSJ-Digital <br><br>- a volunteering group: and we re PUTTING SKILLS INTO ACTION So many ways to volunteer
 our page at the IB-Volunteering-site: FSJ-Digital in Heidelberg (german language)
 <br><br><br>
 🔭 Currently working on: Articles that help students and developers new-to-them technologies. Here are some examples of what I have been writing on:
