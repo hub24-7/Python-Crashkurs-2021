@@ -1,13 +1,13 @@
 Hi there 👋,
 <br><br>
 
-Mittwoch 5.Mai. 2021 17.00
-Mittwoch 5.Mai. 2021 17.00
-Mittwoch 5.Mai. 2021 17.00
-Mittwoch 5.Mai. 2021 17.00
-Mittwoch 5.Mai. 2021 17.00
-Mittwoch 5.Mai. 2021 17.00
-Mittwoch 5.Mai. 2021 17.00
+Donnerstag 6.Mai. 2021 12.00
+Donnerstag 6.Mai. 2021 12.00
+Donnerstag 6.Mai. 2021 12.00
+Donnerstag 6.Mai. 2021 12.00
+Donnerstag 6.Mai. 2021 12.00
+Donnerstag 6.Mai. 2021 12.00
+Donnerstag 6.Mai. 2021 12.00
 
 
 
