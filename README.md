@@ -1,14 +1,7 @@
 Hi there 👋,
 <br><br>
 
-Donnerstag 6.Mai. 2021 12.00
-Donnerstag 6.Mai. 2021 12.00
-Donnerstag 6.Mai. 2021 12.00
-Donnerstag 6.Mai. 2021 12.00
-Donnerstag 6.Mai. 2021 12.00
-Donnerstag 6.Mai. 2021 12.00
-Donnerstag 6.Mai. 2021 12.00
-
+samstag -  8.Mai. 2021 7.00
 
 
 dear friends and visitors. 
