@@ -4,6 +4,14 @@ Hi there 👋,
 samstag -  8.Mai. 2021 7.00
 
 
+avatar_1.jpg
+
+![Awesome image description](avatar_1.jpg)
+For HTML, use an <img> tag to embed the image:
+<img src="avatar_1.jpg" alt="Awesome image description">
+
+
+
 dear friends and visitors. 
 <br><br>
  We re the team of FSJ-Digital <br><br>- a volunteering group: and we re PUTTING SKILLS INTO ACTION So many ways to volunteer
