@@ -7,10 +7,6 @@ samstag -  8.Mai. 2021 7.00
 avatar_1.jpg
 
 ![Awesome image description](avatar_1.jpg)
-For HTML, use an <img> tag to embed the image:
-<img src="avatar_1.jpg" alt="Awesome image description">
-
-
 
 dear friends and visitors. 
 <br><br>
