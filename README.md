@@ -51,7 +51,7 @@ our page at the IB-Volunteering-site: FSJ-Digital in Heidelberg (german language
 Auf dieser Seite werden erste Informationen angeboten - sowie auch Links zum Kurs, zu IDEs und weiteren Werkzeugen. 
 
 Diese Seite ist noch sehr roh - wird aber in den kommenden Tagen nach und nach editiert. 
-
+ 
 
 Vor allen Dingen werden wir hier mit einem Crashkurs von Konrad (FSJ-Digital) hier starten - in dieser Woche - von 15 bis 16. April
 
