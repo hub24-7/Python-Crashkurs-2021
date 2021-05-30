@@ -3,7 +3,10 @@ Hi there 👋,
 
 Mittwoch -  12.Mai. 2021 1.00
 
-
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
 
 ---
 title: Publishing on Github Pages
