@@ -1,13 +1,13 @@
 Hi there 👋,
 <br><br>
 
-Sonntag. 30. Mai 2021. Aufbau des Kurses - auch auf dem Terminalserver - eine liste erstellen für alle FSJ-Digital - Büros zum freien eintrag!
+Sonntag. 30. Mai 2021. 17_00 Aufbau des Kurses - auch auf dem Terminalserver - eine liste erstellen für alle FSJ-Digital - Büros zum freien eintrag!
 
 
-Markdown | Less | Pretty
+awesome Markdown | Less | Pretty well
 --- | --- | ---
 *Still* | `renders` | **nicely**
-1 | 2 | 3
+1 | 2 | 6
 
 ---
 
