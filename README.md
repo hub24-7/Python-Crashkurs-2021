@@ -1,7 +1,8 @@
 Hi there 👋,
 <br><br>
 
-Mittwoch -  12.Mai. 2021 1.00
+Sonntag. 30. Mai 2021. Aufbau des Kurses - auch auf dem Terminalserver - eine liste erstellen für alle FSJ-Digital - Büros zum freien eintrag!
+
 
 Markdown | Less | Pretty
 --- | --- | ---
@@ -9,6 +10,8 @@ Markdown | Less | Pretty
 1 | 2 | 3
 
 ---
+
+
 title: Publishing on Github Pages
 sidebar: mydoc_sidebar
 permalink: mydoc_publishing_github_pages.html
