@@ -1,7 +1,7 @@
 Hi there 👋,
 <br><br>
 
-Sonntag. 30. Mai 2021. 17_00 Aufbau des Kurses - auch auf dem Terminalserver - eine liste erstellen für alle FSJ-Digital - Büros zum freien eintrag!
+Mittwoch. 30. Juni 2021. 22_00 Aufbau des Kurses - auch auf dem Terminalserver - eine liste erstellen für alle FSJ-Digital - Büros zum freien eintrag!
 
 
 awesome Markdown | Less | Pretty well
