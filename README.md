@@ -3,12 +3,7 @@ Hi there 👋,
 
 Sonntag. 29. August 2021. 
 
-
-awesome Markdown | Less | Pretty well
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 6
-
+## Diese Seite ist noch sehr roh - wird aber in den kommenden Tagen nach und nach editiert. 
 
 
 Mittwoch| Donnerstag | Freitag
@@ -20,7 +15,6 @@ Einstieg u.Begrüßung | Themenübersicht | Exkursion
 ---
 
 ---
-
 
 
 avatar_1.jpg
@@ -56,21 +50,15 @@ our page at the IB-Volunteering-site: FSJ-Digital in Heidelberg (german language
 # Python_Tutorials
 <br><br>
 
-...für das die kommenden FSJ-Seminare - also v.a. für die Seminartage am 15. und 16. April haben wir vor, einen Python-Crash-Course anzubieten: 
+...für das die kommenden FSJ-Seminare planen wir auch einen Python-Crash-Course anzubieten: 
 Auf dieser Seite werden erste Informationen angeboten - sowie auch Links zum Kurs, zu IDEs und weiteren Werkzeugen. 
-
-Diese Seite ist noch sehr roh - wird aber in den kommenden Tagen nach und nach editiert. 
- 
-
-Vor allen Dingen werden wir hier mit einem Crashkurs von Konrad (FSJ-Digital) hier starten - in dieser Woche - von 15 bis 16. April
-
 
 Nebenbei bemerkt: der Aufbau des Python Crashkurses - wird modular und strukturiert _nachhaltig - mit anderen Worten: das wird bleibend sein.
 Wir akkumulieren hier wissen - und bauen ein hochleistungsfähigen Kurs auf -hier können wir auch Dinge noch einbauen - etwa was andernorts noch gefunden wird..
 
 
 
-## SEMININHALT für den 15. und 16. April 
+## SEMININHALT für den Python-Crashkurs:
 
 a. Jupyter-Notebook: Wir führen auch ein in Jupyter-Notebook /(lab)
 b. Python Crashkurs.
@@ -87,28 +75,18 @@ hier sind die beiden Jupyter-Noteboks, um die es heute geht,  Crashkurs und Übu
 
 [Python Übungen](https://nbviewer.jupyter.org/github/fsj-digital/Python_Tutorials/blob/main/%C3%9Cbungen.ipynb)
 
+# IDEs - diverse ides und Editoren
 
-
-
-
-
-
-
-IDEs - diverse ides und Editoren
-
-RaspBerry_Pi und Arduino
+# RaspBerry_Pi und Arduino
 - Aufbau eines Headless Servers
 - Aufbau eines NAS Network Area Storage
 - etc. etx.
 
-Betriebsysteme:
+# Betriebsysteme:
 Linux-Systeme   Übersicht, Einsatz, Installation
 
 
-
-
-
-## weitere Tutorials: ( nicht Gegenstand des heutigen Seminars ) 
+## weitere Tutorials:  
 
 https://github.com/rajathkmp/Python-Lectures : eine sehr strukturierte Übersicht -(wie sie in vielen Lehrbüchern auch zu finden ist)
 ist nebenbei released unter: https://creativecommons.org/licenses/by/3.0/
