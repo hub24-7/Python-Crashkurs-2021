@@ -20,6 +20,12 @@ Einstieg u.Begrüßung | Themenübersicht | Exkursion
 avatar_1.jpg
 
 ![Awesome image description](github_image.jpg)
+image used due consent of hackNY.org :: fall 2013 hackNY student hackathon 
+https://flickr.com/photos/hackny/10165085126/in/gallery-186428325@N04-72157718884822936/
+cf https://creativecommons.org/licenses/by-sa/2.0/
+For more information on hackNY's initiatives, please visit www.hackny.org and follow us on twitter @hackNY
+
+
 
 dear friends and visitors. 
 <br><br>
