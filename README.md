@@ -1,13 +1,21 @@
 Hi there 👋,
 <br><br>
 
-Donnerstag. 29. July 2021. 14_00 Aufbau des Kurses - auch auf dem Terminalserver - eine liste erstellen für alle FSJ-Digital - Büros zum freien eintrag!
+Sonntag. 29. August 2021. 
 
 
 awesome Markdown | Less | Pretty well
 --- | --- | ---
 *Still* | `renders` | **nicely**
 1 | 2 | 6
+
+
+
+Mittwoch| Donnerstag | Freitag
+--- | --- | ---
+*Still* | `renders` | **nicely**
+Einstieg u.Begrüßung | Themenübersicht | Exkursion
+
 
 ---
 
@@ -17,7 +25,7 @@ awesome Markdown | Less | Pretty well
 
 avatar_1.jpg
 
-![Awesome image description](avatar_1.jpg)
+![Awesome image description](github_image.jpg)
 
 dear friends and visitors. 
 <br><br>
