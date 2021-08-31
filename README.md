@@ -74,7 +74,7 @@ our page at the IB-Volunteering-site: FSJ-Digital in Heidelberg (german language
   :musical_note: we love making music You can hear us making music here: University-Church in Heidelberg<br>
 making Musik with FSJ-Digital-group in 2021: Universitätskirche Heidelberg am 4 Dez.2020: Eva Heitlinger begleitet von Gerhard Müller
 
-![Awesome image description](image_singing_meteor.jpg)
+![Awesome ](image_singing_meteor.jpg)
 
 [Universitätskirche Heidelberg am 4 Dez.2020: Eva Heitlinger begleitet von Gerhard Müller](https://youtu.be/6OqKzrY2hFQ)<br>
 [Universitätskirche Heidelberg: FSJ -Weihnachtssingen 2020 - Justine, begleitet von G. Müller.](https://youtu.be/1gWKifdg_9Q)<br>
@@ -83,7 +83,7 @@ making Musik with FSJ-Digital-group in 2021: Universitätskirche Heidelberg am 4
 [Trailer X Mas Singing: die Freiwilligendienste Heidelbergs singen in der Unikirche Heidelbergs](https://youtu.be/gZetC-bAlDc)<br>
 
 <br><br>
-![Awesome image description](image_singing_in_group.jpg)
+![Awesome im](image_singing_in_group.jpg)
 
 
            :fallen_leaf: My favorite season is fall :smile:<br>
