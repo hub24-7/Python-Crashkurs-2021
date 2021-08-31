@@ -1,10 +1,25 @@
 Hi there 👋,
 <br><br>
 
-Sonntag. 29. August 2021. 
+Dienstag. 31. August 2021. 
 
-## Diese Seite ist noch sehr roh - wird aber in den kommenden Tagen nach und nach editiert. 
+## Projektseite des FSJ-Digital-Kurses Diese Seite ist noch sehr roh - wird aber in den kommenden Tagen nach und nach editiert. 
 
+
+das ist die Projekt-Homepage, auf der im Verlauf der nächsten Wochen alle Inhalte aufgelistet werden. 
+Doch diese Seite ist nicht nur Pinwand und Kalender - sie ist weit mehr als nur das. Sie ist eine Kollaborativ-Umgebung (im besten Github-Sinne)
+Einen kl. Ausblick auf für dich interessante Teile - findest ihr hier. .( ist aber noch sehr roh - und wird erst im Verlauf der nächsten Wochen ausgebaut. ) 
+ 
+Ansonsten - findet in den ersten Tagen ein Kennenlernen und ein erster Austausch statt. Morgen beginnen wir mit einer Kennenlernrunde und eine Besprechung darüber was wir im Jahr noch alles machen werden. 
+Vieles ist darauf angelegt - virtuell zu laufen. ( wie Ihr auch auf der github-Projekt-Seite seht ) - sodass wir, wenn die Corona-Pandemie es erfordern sollte, auch in 
+unseren Seminartagen dann virtuell uns treffen können. 
+ 
+Darüber hinaus: für die Online-Zusammenarbeit haben wir einen Discord-Server, Concept-Boards und natürlich auch Github als Unterstützung. 
+ 
+##By the way:  insbes. für  die Github-FSJ-Seite: 
+Hier brauchen wir noch Mitmacher, Interessierte, und ggf. auch ein paar (neudeutsch) Maintainer - z .B. der Github-Seite und auch der Jupyter-Notes-basierten Python-Kurse. Aber das kommt alles in den nächsten Wochen 
+ 
+der ##Ausblick auf die ersten Tage: 
 
 Mittwoch| Donnerstag | Freitag
 --- | --- | ---
@@ -20,10 +35,19 @@ Einstieg u.Begrüßung | Themenübersicht | Exkursion
 avatar_1.jpg
 
 ![Awesome image description](github_image.jpg)
-image used due consent of hackNY.org :: fall 2013 hackNY student hackathon 
-https://flickr.com/photos/hackny/10165085126/in/gallery-186428325@N04-72157718884822936/
-cf https://creativecommons.org/licenses/by-sa/2.0/
-For more information on hackNY's initiatives, please visit www.hackny.org and follow us on twitter @hackNY
+image used due consent of hackNY.org :: fall 2013 hackNY student hackathon  https://flickr.com/photos/hackny/10165085126/in/gallery-186428325@N04-72157718884822936/ cf https://creativecommons.org/licenses/by-sa/2.0/ For more information on hackNY's initiatives, please visit www.hackny.org and follow us on twitter @hackNY
+
+<br><br>
+<br><br>
+
+Weil wir manche Teile des Kurses auch als kollaborativ-Teil einrichten - werden wir hier mit digitalen Features und Aspekten experimentieren. M.a.W. wir wollen die Möglichkeiten d der Github-Umgebung dazu nutzen, unsere Materialien auch einem größeren Publikum zu öffnen. 
+Das bringt eine Menge an Erfahrungen - und gleichzeitig sind wir hier - voll im Thema FSJ-Digital, so wie es uns auch im Alltag unserer FSJ-Arbeit an Schulen, Jugendinstituten und anderen Abteilungen begegnet: Digital, modern, und einfach entgrenzt von klassischen Schranken eines Klassenraumes oder ähnlichem ehr. 
+
+<br><br>
+
+ergo hier ein paar Einleitungen zum Projektteil - auf englisch... 
+<br><br>
+
 
 
 
