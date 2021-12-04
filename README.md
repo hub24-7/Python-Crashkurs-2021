@@ -37,12 +37,9 @@ avatar_1.jpg
 ![Awesome image description](github_image.jpg)
 image used due consent of hackNY.org :: fall 2013 hackNY student hackathon  https://flickr.com/photos/hackny/10165085126/in/gallery-186428325@N04-72157718884822936/ cf https://creativecommons.org/licenses/by-sa/2.0/ For more information on hackNY's initiatives, please visit www.hackny.org and follow us on twitter @hackNY
 
-<br><br>
-<br><br>
-
+<br>
 Weil wir manche Teile des Kurses auch als kollaborativ-Teil einrichten - werden wir hier mit digitalen Features und Aspekten experimentieren. M.a.W. wir wollen die Möglichkeiten d der Github-Umgebung dazu nutzen, unsere Materialien auch einem größeren Publikum zu öffnen. 
 Das bringt eine Menge an Erfahrungen - und gleichzeitig sind wir hier - voll im Thema FSJ-Digital, so wie es uns auch im Alltag unserer FSJ-Arbeit an Schulen, Jugendinstituten und anderen Abteilungen begegnet: Digital, modern, und einfach entgrenzt von klassischen Schranken eines Klassenraumes oder ähnlichem ehr. 
-
 <br><br>
 
 ergo hier ein paar Einleitungen zum Projektteil - auf englisch... 
