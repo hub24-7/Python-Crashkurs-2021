@@ -102,15 +102,12 @@ Wir akkumulieren hier wissen - und bauen ein hochleistungsfähigen Kurs auf -hie
 
 
 
-## SEMININHALT für den Python-Crashkurs:
+## SEMININAR-INHALT für den Python-Crashkurs:
 
-a. Jupyter-Notebook: Wir führen auch ein in Jupyter-Notebook /(lab)
+a. Jupyter-Notebook: Wir führen auch ein in Jupyter-Notebook (lab)
 b. Python Crashkurs.
 
-
-
 jupyter-notebook :: hier ein Link zur Kurzeinführung in das Notebook: [ jupyter-notebook ](https://youtu.be/tpLk-FC9kHI)
-
 
 hier sind die beiden Jupyter-Noteboks, um die es heute geht,  Crashkurs und Übungen: 
 
@@ -137,8 +134,7 @@ ist nebenbei released unter: https://creativecommons.org/licenses/by/3.0/
 
 
 
-## Introduction
-
+## Introduction into Python
 Python is a modern, robust, high level programming language. It is very easy to pick up even if you are completely new to programming.
 
 ## Installation
@@ -188,29 +184,18 @@ This will clear all the outputs and now you can understand each statement and le
 
 ## Table of contents
 
-
-
 [00 - Introduction and Installation](http://nbviewer.ipython.org/github/rajathkumarmp/Python-Lectures/blob/master/00.ipynb)
-
 
 [01 - Variable, Operators and Built-in Functions](http://nbviewer.ipython.org/github/rajathkumarmp/Python-Lectures/blob/master/01.ipynb)
 
-
 [02 - Print Statement, Precision and FieldWidth](http://nbviewer.ipython.org/github/rajathkumarmp/Python-Lectures/blob/master/02.ipynb)
 
-
 [03 - Lists, Tuples and Sets](http://nbviewer.ipython.org/github/rajathkumarmp/Python-Lectures/blob/master/03.ipynb)
-
 
 [04 - Strings and Dictionaries](http://nbviewer.ipython.org/github/rajathkumarmp/Python-Lectures/blob/master/04.ipynb)
 
 
-
-
 	## Welcome to FSJ-Digital-page - das ist die seite an der ich jetzt arbeite
-
-
-
  
 ### Hi there 👋, We re the team of FSJ-Digital - a volunteering group: and we re  PUTTING SKILLS INTO ACTION So many ways to volunteer <br>
  
@@ -258,8 +243,6 @@ Learn Python By Example: Start from basic level and move all the way up to profe
 https://github.com/tuvtran/project-based-learning
 
 A list of programming tutorials in which learners build an application from scratch. These tutorials are divided into different primary programming languages. Some have intermixed technologies and languages. To get started, simply fork this repo. Please refer to CONTRIBUTING.md for contribution guidelines.
-
-
 
 You can use the [editor on GitHub](https://github.com/fsj-digital/page/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
