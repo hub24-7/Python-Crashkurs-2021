@@ -1,7 +1,7 @@
 Hi there 👋,
 <br><br>
 
-Dienstag. 31. August 2021. 
+Samstag. 4. Dezember 2021. 
 
 ## Projektseite des FSJ-Digital-Kurses Diese Seite ist noch sehr roh - wird aber in den kommenden Tagen nach und nach editiert. 
 
