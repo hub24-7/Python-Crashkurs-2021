@@ -45,9 +45,6 @@ Das bringt eine Menge an Erfahrungen - und gleichzeitig sind wir hier - voll im 
 ergo hier ein paar Einleitungen zum Projektteil - auf englisch... 
 <br><br>
 
-
-
-
 dear friends and visitors. 
 <br><br>
  We re the team of FSJ-Digital <br><br>- a volunteering group: and we re PUTTING SKILLS INTO ACTION So many ways to volunteer
@@ -84,10 +81,7 @@ making Musik with FSJ-Digital-group in 2021: Universitätskirche Heidelberg am 4
 
 
            :fallen_leaf: My favorite season is fall :smile:<br>
-<br><br><br><br>
-<br>
-<br>
-
+<br><br><br>
 # Python_Tutorials
 <br><br>
 
