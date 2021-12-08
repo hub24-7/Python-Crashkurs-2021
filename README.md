@@ -27,6 +27,18 @@ Mittwoch| Donnerstag | Freitag
 Einstieg u.Begrüßung | Themenübersicht | Exkursion
 
 
+
+
+|   |                A                 |    B    |           C            |       D        |
+|---|----------------------------------|---------|------------------------|----------------|
+| 1 | Col1                             | Col2    | Col3                   | Numeric Column |
+| 2 | Value 1                          | Value 2 | 123                    | 10.0           |
+| 3 | Separate                         | cols    | with a tab or 4 spaces | -2,027.1       |
+| 4 | This is a row with only one cell |         |                        |                |
+
+
+
+
 ---
 
 ---
