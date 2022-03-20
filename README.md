@@ -43,6 +43,10 @@ https://nbviewer.org/github/fsj-digital/zero/blob/main/Python_Crashkurs_22.ipynb
 Übungen zum Kurs:
 https://nbviewer.org/github/fsj-digital/zero/blob/main/%C3%9Cbungen_22.ipynb 
 
+
+
+
+
 Hi there 👋,
 <br><br>
 
