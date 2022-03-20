@@ -1,3 +1,48 @@
+20. März 2022
+#Python-Kurs
+##Informationen zur Benuzung und Installation von Jupyter Notebook
+
+**Möglichkeiten:**
+- Jupyter Notebooks ohne Installation von Jupyter Notebook öffnen, mithilfe von der Website "Binder"
+- Installation von Jupyter Notebook über PIP
+- Installation von Jupyter Notebook durch Herunterladen von Anaconda/Miniconda
+
+**Jupyter Notebooks ohne Installation von Jupyter Notebook öffnen, mithilfe von der Website "Binder"**
+1. Öffne die Jupyter Notebook-Datei, die du in Binder öffnen willst, erstmal in NBviewer (https://nbviewer.org/)
+2. Auf der NBviewer-Website, wenn ein Jupyter Notebook geöffnet wurde: oben, das zweite Symbol von rechts. Wenn die Maus auf dieses Symbol bewegt wird erscheint der Text "Execute on Binder". Klicke auf dieses Symbol.
+3. Nach Klicken wirst du zu einer Website weitergeleitet, wo ein animiertes Lade-Symbol ist. Wenn das passiert musst du warten, bis das Notebook fertig geladen wurde.
+4. Wenn es fertig geladen wurde, wirst du wieder weitergeleitet. Dann kannst du das Notebook bearbeiten.
+5. Wenn du speichern oder laden willst, benutze das Symbol mit einer Wolke und einem Pfeil nach oben/unten, dass bei Mouseover "Save to browser storage"/"Restore from browser storage" sagt. (Wenn du das Notebook als Datei herunterladen willst, klicke auf "Download". Du kannst Notebooks von deinem Computer leider nur mit Umwegen in Binder öffnen.)
+
+**Installation von Jupyter Notebook über PIP**
+1. Prüfe, ob PIP schon installiert ist mit pip --version. Wenn ja, springe zu Schritt 3.
+2. Lade Python herunter von https://www.python.org/downloads/ und installiere es. PIP ist der Python-Paketmanager und wird automatisch mitgeliefert.
+3. Öffne die Konsole/das Terminal und gebe folgendes ein:
+pip install notebook
+4. Starte Jupyter Notebook, indem du in der Konsole /dem Terminal jupyter notebook eingibst. Jupyter Notebook öffnet dann die Benutzeroberfläche im Browser.
+
+**Installation von Jupyter Notebook durch Herunterladen von Anaconda**
+Der Nachteil von Anaconda ist, dass es viel Speicherplatz verbraucht. Der Vorteil ist, dass mehrere Sachen heruntergeladen werden, die vielleicht irgendwann mal nützlich werden.
+1. Lade Anaconda herunter über https://www.anaconda.com/products/individual und installiere es
+2. Öffne das Programm "Anaconda navigator"
+3. Öffne Jupyter Notebook mithilfe des Anaconda Navigator
+
+**Installation von Jupyter Notebook durch Herunterladen von Miniconda**
+1. Lade Miniconda herunter über https://docs.conda.io/en/latest/miniconda.html
+2. öffne das Programm "Anaconda prompt"
+3. Installiere Jupyter Notebook mit dem Befehl conda install jupyter
+4. öffne Jupyter Notebook mit dem Befehl jupyter notebook
+
+**Benutzen von Jupyter Notebook**
+eigentlich selbsterklärend, optional aber ein Video https://www.youtube.com/watch?v=tpLk-FC9kHI
+
+##Python-Crashkurs
+Haupt-Kurs:
+https://nbviewer.org/github/fsj-digital/zero/blob/main/Python_Crashkurs_22.ipynb 
+
+Übungen zum Kurs:
+https://nbviewer.org/github/fsj-digital/zero/blob/main/%C3%9Cbungen_22.ipynb 
+
 Hi there 👋,
 <br><br>
 
