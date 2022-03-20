@@ -1,4 +1,3 @@
-20. März 2022
 # Python-Kurs
 ## Informationen zur Benutzung und Installation von Jupyter Notebook
 
@@ -43,7 +42,7 @@ https://nbviewer.org/github/fsj-digital/zero/blob/main/Python_Crashkurs_22.ipynb
 Übungen zum Kurs:
 https://nbviewer.org/github/fsj-digital/zero/blob/main/%C3%9Cbungen_22.ipynb 
 
-
+20. März 2022
 
 
 
