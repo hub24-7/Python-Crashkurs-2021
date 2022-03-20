@@ -1,6 +1,6 @@
 20. März 2022
 # Python-Kurs
-## Informationen zur Benuzung und Installation von Jupyter Notebook
+## Informationen zur Benutzung und Installation von Jupyter Notebook
 
 **Möglichkeiten:**
 - Jupyter Notebooks ohne Installation von Jupyter Notebook öffnen, mithilfe von der Website "Binder"
