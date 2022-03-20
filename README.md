@@ -36,7 +36,7 @@ Der Nachteil von Anaconda ist, dass es viel Speicherplatz verbraucht. Der Vortei
 **Benutzen von Jupyter Notebook**
 eigentlich selbsterklärend, optional aber ein Video https://www.youtube.com/watch?v=tpLk-FC9kHI
 
-##Python-Crashkurs
+## Python-Crashkurs
 Haupt-Kurs:
 https://nbviewer.org/github/fsj-digital/zero/blob/main/Python_Crashkurs_22.ipynb 
 
