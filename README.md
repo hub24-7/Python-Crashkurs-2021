@@ -130,12 +130,6 @@ making Musik with FSJ-Digital-group in 2021: Universitätskirche Heidelberg am 4
 
 ![Awesome ](image_singing_meteor.jpg)
 
-[Universitätskirche Heidelberg am 4 Dez.2020: Eva Heitlinger begleitet von Gerhard Müller](https://youtu.be/6OqKzrY2hFQ)<br>
-[Universitätskirche Heidelberg: FSJ -Weihnachtssingen 2020 - Justine, begleitet von G. Müller.](https://youtu.be/1gWKifdg_9Q)<br>
-[Universitätskirche2020 12 04 Ludwig spielt Canon D-Dur (Pachelbel) an der Orgel](https://youtu.be/euL7CtQJ89g)<br>
-[Weihnachtssingen: Unikirche Heidelberg: 10. Dez. 2020: ChorYFeen, FSJler, begleitet von G. Müller](https://youtu.be/o8r5pjhisQM)<br>
-[Trailer X Mas Singing: die Freiwilligendienste Heidelbergs singen in der Unikirche Heidelbergs](https://youtu.be/gZetC-bAlDc)<br>
-
 <br><br>
 ![Awesome im](image_singing_in_group.jpg)
 
