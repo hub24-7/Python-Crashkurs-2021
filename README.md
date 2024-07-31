@@ -128,11 +128,6 @@ our page at the IB-Volunteering-site: FSJ-Digital in Heidelberg (german language
   :musical_note: we love making music You can hear us making music here: University-Church in Heidelberg<br>
 making Musik with FSJ-Digital-group in 2021: Universitätskirche Heidelberg am 4 Dez.2020: Eva Heitlinger begleitet von Gerhard Müller
 
-![Awesome ](image_singing_meteor.jpg)
-
-<br><br>
-![Awesome im](image_singing_in_group.jpg)
-
 
            :fallen_leaf: My favorite season is fall :smile:<br>
 <br><br><br>
